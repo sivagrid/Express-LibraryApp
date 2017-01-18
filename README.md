@@ -1,4 +1,4 @@
-It is a sample libray App which is under progress.
+It is a sample libray App which is under development.
 
 prerequisites to run this app:
   1. Node, npm, bower and mongodb with some books details.
